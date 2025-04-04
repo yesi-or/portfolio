@@ -1,5 +1,5 @@
 title: Yesenia Oruna Graos
-logo: logo.jpg
+logo: /assets/img/logo.JPG
 #description: text below image
-show_downloads: true
-theme: jekyll-theme-minimal
+show_downloads: false
+theme: jekyll-theme-minimal 
