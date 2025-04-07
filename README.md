@@ -25,3 +25,29 @@
 - 🌱 Adaptabilidad
 
 ## PROYECTOS
+
+### INSTACART
+
+En este proyecto se analizan los datos proporcionados por Instacart, una empresa de entregas de supermercado en línea, con el objetivo de explorar el comportamiento de compra de los usuarios y descubrir relaciones significativas entre variables clave.
+
+El análisis comienza con un Análisis Exploratorio de Datos (EDA), donde se realiza una limpieza y comprensión profunda del dataset. Se examinan aspectos como la frecuencia de pedidos, los productos más comprados, los horarios con mayor actividad, y las categorías más populares.
+
+A lo largo del proceso, se identifican y visualizan patrones, correlaciones y tendencias entre los distintos conjuntos de datos disponibles, como productos, órdenes, usuarios y departamentos. Estas visualizaciones permiten evaluar comportamientos de compra repetitiva, identificar hábitos de consumo y generar hallazgos útiles para futuras estrategias de negocio o personalización de la experiencia del cliente.
+
+Este enfoque no solo proporciona una visión global del funcionamiento de la plataforma, sino que también sienta las bases para desarrollar modelos predictivos o sistemas de recomendación basados en los datos analizados.
+
+
+
+### Pozos Petroleros
+
+En este proyecto se aborda un caso de análisis y modelado para una empresa del sector petrolero, con el objetivo de identificar los pozos de petróleo más rentables a partir de datos históricos de producción y ganancias estimadas.
+
+El primer paso consiste en desarrollar una función que calcule la ganancia total esperada para un conjunto de pozos seleccionados, considerando tanto los ingresos proyectados como los costos operativos. Posteriormente, se construyen modelos de predicción que permiten estimar con mayor precisión el rendimiento de pozos no evaluados previamente, basados en características geológicas, ubicación y producción histórica.
+
+A través de este enfoque, se busca no solo hallar el pozo más rentable, sino también ofrecer una herramienta que facilite la toma de decisiones estratégicas para la inversión y explotación de nuevos pozos. El análisis incluye visualizaciones de las predicciones y una evaluación comparativa entre los diferentes sitios de perforación, destacando aquellos con mayor potencial de retorno económico.
+
+Este trabajo combina programación, análisis de datos y modelado predictivo para generar valor cuantificable en un contexto de alto impacto financiero como es la industria del petróleo.
+
+https://github.com/yesi-or/M-todo-Bootstrapping
+
+
