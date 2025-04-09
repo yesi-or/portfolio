@@ -7,6 +7,8 @@
 
 ### INSTACART
 
+![Vista previa del análisis de Instacart](images/instacart.jpg) 
+
 En este proyecto se analizan los datos proporcionados por Instacart, una empresa de entregas de supermercado en línea, con el objetivo de explorar el comportamiento de compra de los usuarios y descubrir relaciones significativas entre variables clave.
 
 El análisis comienza con un Análisis Exploratorio de Datos (EDA), donde se realiza una limpieza y comprensión profunda del dataset. Se examinan aspectos como la frecuencia de pedidos, los productos más comprados, los horarios con mayor actividad, y las categorías más populares.
@@ -20,6 +22,8 @@ Este enfoque no solo proporciona una visión global del funcionamiento de la pla
 [Proyecto completo](https://github.com/yesi-or/Instacart.git)
 
 ### Pozos Petroleros
+
+![Predicción de rentabilidad de pozos petroleros](images/pozos.jpeg) 
 
 En este proyecto se aborda un caso de análisis y modelado para una empresa del sector petrolero, con el objetivo de identificar los pozos de petróleo más rentables a partir de datos históricos de producción y ganancias estimadas.
 
@@ -36,6 +40,8 @@ Este trabajo combina programación, análisis de datos y modelado predictivo par
 
 ### Film-Junky-Union
 
+![Análisis NLP de reseñas de cine](images/movie.jpeg)
+
 En el marco del desarrollo de Film Junky Union, una innovadora comunidad enfocada en los amantes del cine clásico, se ha planteado la necesidad de automatizar el proceso de análisis de reseñas de películas. El objetivo principal de este proyecto es construir un sistema capaz de identificar automáticamente críticas negativas, permitiendo así una mejor moderación y personalización del contenido para los usuarios.
 
 Para lograrlo, se utilizó un conjunto de datos de reseñas de películas provenientes de IMDB, el cual incluye etiquetas de polaridad (positiva o negativa). A partir de este corpus, se entrenaron distintos modelos de clasificación de texto, con la meta de alcanzar un valor F1 mínimo de 0.85, asegurando un equilibrio entre precisión y exhaustividad en la detección de críticas negativas.
@@ -47,6 +53,8 @@ Este proyecto explora diferentes enfoques de preprocesamiento y vectorización d
 [Proyecto completo](https://github.com/yesi-or/Film-Junky-Union.git)
 
 ### Compañia de Seguros
+
+![Aplicación de k-NN en seguros](images/seguros.jpeg) 
 
 La compañía de seguros Sure Tomorrow ha identificado la oportunidad de utilizar técnicas de machine learning para resolver diversas tareas clave en su negocio y mejorar la eficiencia operativa. El proyecto se centra en cuatro tareas principales que buscan optimizar el marketing, la predicción de prestaciones y la protección de datos personales de los clientes.
 
@@ -61,7 +69,6 @@ El proyecto combina un análisis exhaustivo de datos, el uso de algoritmos de ma
 [Proyecto completo](https://github.com/yesi-or/Compa-ia-de-Seguros.git)
 
 
-
 ### HABILIDADES TECNOLÓGICAS
 
 - 📊 **Lenguajes de programación:** Python, SQL
@@ -70,6 +77,7 @@ El proyecto combina un análisis exhaustivo de datos, el uso de algoritmos de ma
 - 🧠 **Machine Learning:** XGBoost, LightGBM, TensorFlow, PyTorch
 - 📉 **Herramientas adicionales:** Git & GitHub, Excel (macros y tablas dinámicas), Data Wrangling y Cleaning
 - ☁️ **Otros:** Google Workspace, Zoom, VS Code, Jupyter Notebook, ERP, Fidelio
+
 
 ### COMPETENCIAS
 
