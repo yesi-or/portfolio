@@ -11,10 +11,7 @@
 - 🧠 **Machine Learning:** XGBoost, LightGBM, TensorFlow, PyTorch
 - 📉 **Herramientas adicionales:** Git & GitHub, Excel (macros y tablas dinámicas), Data Wrangling y Cleaning
 - ☁️ **Otros:** Google Workspace, Zoom, VS Code, Jupyter Notebook, ERP, Fidelio
-
-      </td>
-      <td width="50%" valign="top" style="border: none; padding-left: 15px;" markdown="1">
-
+|
 ### COMPETENCIAS
 
 - 🧩 Pensamiento analítico
