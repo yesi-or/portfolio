@@ -50,7 +50,7 @@ A través de este enfoque, se busca no solo hallar el pozo más rentable, sino t
 
 Este trabajo combina programación, análisis de datos y modelado predictivo para generar valor cuantificable en un contexto de alto impacto financiero como es la industria del petróleo.
 
-*Habilidades técnicas: \| Python \| Análisis de datos \| Modelado predictivo \| Machine Learning \| Regresión \| Evaluación de modelos \| Visualización de datos \| Pandas \| NumPy \| Scikit-learn \| Matplotlib/Seaborn \| Bootstrapping \|*
+*Habilidades técnicas: Python, Análisis de datos, Modelado predictivo, Machine Learning, Regresión, Evaluación de modelos, Visualización de datos, Pandas, NumPy, Scikit-learn, Matplotlib/Seaborn, Bootstrapping*
 
 [Proyecto completo](https://github.com/yesi-or/M-todo-Bootstrapping)
 
