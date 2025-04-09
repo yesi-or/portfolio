@@ -1,3 +1,18 @@
+
+<p style="text-align: center;"> <!-- Opcional: centrar el enlace -->
+  <a 
+    href="https://github.com/yesi-or" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    style="font-weight: bold;" <!-- Opcional: estilo -->
+  >
+    View My GitHub Profile
+  </a>
+</p>
+
+<hr> <!-- Opcional: separador --> 
+
+
 # Científico de Datos 
 
 👩‍🔬👩‍💻 Profesional en Administración y Negocios Internacionales, certificada en Ciencia de Datos, con experiencia en análisis de bases de datos, automatización de procesos y visualización de datos. Poseo un nivel de inglés avanzado y una combinación sólida de habilidades analíticas, tecnológicas y comunicativas. He trabajado en gestión de importaciones y el sector marítimo, desempeñándome como Ejecutiva de Importaciones y Sommelier en cruceros, desarrollando experiencia en negociación, análisis de tendencias y evaluación de mercados internacionales. Especializada en Python, Power BI, Excel y SQL, aplico análisis de datos y generación de reportes para la toma de decisiones estratégicas.
