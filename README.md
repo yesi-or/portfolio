@@ -36,7 +36,7 @@ A lo largo del proceso, se identifican y visualizan patrones, correlaciones y te
 
 Este enfoque no solo proporciona una visión global del funcionamiento de la plataforma, sino que también sienta las bases para desarrollar modelos predictivos o sistemas de recomendación basados en los datos analizados.
 
-*Habilidades técnicas: | Python | Análisis Exploratorio de Datos (EDA) | Limpieza de datos | Visualización de datos | Pandas | NumPy | Matplotlib/Seaborn | Correlación de datos | Machine Learning (para futuros modelos predictivos o sistemas de recomendación) | SQL*
+*Habilidades técnicas: Python, Análisis Exploratorio de Datos (EDA), Limpieza de datos, Visualización de datos, Pandas, NumPy, Matplotlib/Seaborn, Correlación de datos, Machine Learning (para futuros modelos predictivos o sistemas de recomendación), SQL*
 
 [Proyecto completo](https://github.com/yesi-or/Instacart.git)
 
@@ -63,7 +63,7 @@ Para lograrlo, se utilizó un conjunto de datos de reseñas de películas proven
 
 Este proyecto explora diferentes enfoques de preprocesamiento y vectorización de texto, incluyendo técnicas tradicionales como TF-IDF combinadas con modelos lineales, así como modelos de lenguaje más avanzados como BERT. A lo largo del desarrollo, se analizó la eficiencia, el rendimiento y la capacidad de generalización de cada enfoque, priorizando un balance entre calidad y costo computacional.
 
-_Habilidades técnicas: | Python | NLP (Natural Language Processing) | spaCy | | TF-IDF | | Logistic Regression | BERT (Bidirectional Encoder Representations from Transformers) | Scikit-learn | Evaluación de modelos | GPU/CPU Computation |_
+*Habilidades técnicas: Python, NLP (Natural Language Processing), spaCy, TF-IDF, Logistic Regression, BERT (Bidirectional Encoder Representations from Transformers), Scikit-learn, Evaluación de modelos, GPU/CPU Computation*
 
 [Proyecto completo](https://github.com/yesi-or/Film-Junky-Union.git)
 
@@ -77,6 +77,6 @@ La cuarta y última tarea tiene como objetivo proteger los datos personales de l
 
 El proyecto combina un análisis exhaustivo de datos, el uso de algoritmos de machine learning, y técnicas de protección de datos para mejorar la toma de decisiones estratégicas y la personalización de servicios en el sector asegurador.
 
-_Habilidades técnicas: | Python | Machine Learning | Algoritmo k-NN (k-Nearest Neighbors) | Regresión Lineal | Modelos predictivos | Escalado de datos | Enmascaramiento de datos | Transformación de datos | Evaluación de modelos (F1 score, RMSE, R2)  | Métricas de distancia (Manhattan, Euclidiana) | Pandas | NumPy | Scikit-learn | Protección de datos personales |_
+*Habilidades técnicas: Python, Machine Learning, Algoritmo k-NN (k-Nearest Neighbors), Regresión Lineal, Modelos predictivos, Escalado de datos, Enmascaramiento de datos, Transformación de datos, Evaluación de modelos (F1 score, RMSE, R2), Métricas de distancia (Manhattan, Euclidiana), Pandas, NumPy, Scikit-learn, Protección de datos personales*
 
 [Proyecto completo](https://github.com/yesi-or/Compa-ia-de-Seguros.git)
