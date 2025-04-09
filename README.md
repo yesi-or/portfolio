@@ -4,13 +4,13 @@
 
 
 
-<table width="100%" style="border: none; border-collapse: collapse;"> <!-- Añadido estilo para quitar bordes -->
+
+<table width="100%" style="border: none; border-collapse: collapse;">
   <tbody>
     <tr>
-      <td width="50%" valign="top" style="border: none; padding-right: 15px;" markdown="1"> <!-- Quitado borde, añadido padding -->
-      <!-- Columna Izquierda: Habilidades Tecnológicas -->
+      <td width="50%" valign="top" style="border: none; padding-right: 15px;" markdown="1">
 
-## HABILIDADES TECNOLÓGICAS
+### HABILIDADES TECNOLÓGICAS
 
 - 📊 **Lenguajes de programación:** Python, SQL
 - 🖼️ **Visualización de datos:** Plotly, Seaborn, Tableau, Matplotlib
@@ -20,10 +20,9 @@
 - ☁️ **Otros:** Google Workspace, Zoom, VS Code, Jupyter Notebook, ERP, Fidelio
 
       </td>
-      <td width="50%" valign="top" style="border: none; padding-left: 15px;" markdown="1"> <!-- Quitado borde, añadido padding -->
-      <!-- Columna Derecha: Competencias -->
+      <td width="50%" valign="top" style="border: none; padding-left: 15px;" markdown="1">
 
-## COMPETENCIAS
+### COMPETENCIAS
 
 - 🧩 Pensamiento analítico
 - 📊 Modelado estadístico
