@@ -77,6 +77,6 @@ La cuarta y última tarea tiene como objetivo proteger los datos personales de l
 
 El proyecto combina un análisis exhaustivo de datos, el uso de algoritmos de machine learning, y técnicas de protección de datos para mejorar la toma de decisiones estratégicas y la personalización de servicios en el sector asegurador.
 
-*Habilidades técnicas: Python, Machine Learning, Algoritmo k-NN (k-Nearest Neighbors), Regresión Lineal, Modelos predictivos, Escalado de datos, Enmascaramiento de datos, Transformación de datos, Evaluación de modelos (F1 score, RMSE, R2), Métricas de distancia (Manhattan, Euclidiana), Pandas, NumPy, Scikit-learn, Protección de datos personales*
+*Habilidades técnicas: Python, Machine Learning, Algoritmo k-NN (k-Nearest Neighbors), Regresión Lineal, Modelos predictivos, Escalado de datos, Enmascaramiento de datos, Transformación de datos, Evaluación de modelos (F1 score, RMSE, R2), Métricas de distancia (Manhattan, Euclidiana), Pandas, NumPy, Scikit-learn*
 
 [Proyecto completo](https://github.com/yesi-or/Compa-ia-de-Seguros.git)
