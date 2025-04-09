@@ -36,7 +36,7 @@ A lo largo del proceso, se identifican y visualizan patrones, correlaciones y te
 
 Este enfoque no solo proporciona una visión global del funcionamiento de la plataforma, sino que también sienta las bases para desarrollar modelos predictivos o sistemas de recomendación basados en los datos analizados.
 
-_Habilidades técnicas: | Python | Análisis Exploratorio de Datos (EDA) | Limpieza de datos | Visualización de datos | Pandas | NumPy | Matplotlib/Seaborn | Correlación de datos | Machine Learning (para futuros modelos predictivos o sistemas de recomendación) | SQL |_
+<i>Habilidades técnicas: | Python | Análisis Exploratorio de Datos (EDA) | Limpieza de datos | Visualización de datos | Pandas | NumPy | Matplotlib/Seaborn | Correlación de datos | Machine Learning (para futuros modelos predictivos o sistemas de recomendación) | SQL |</i>
 
 [Proyecto completo](https://github.com/yesi-or/Instacart.git)
 
