@@ -5,7 +5,19 @@
 
 ## PROYECTOS
 
-### INSTACART
+## Telecomunicaciones Interconnect
+
+![Vista previa del análisis de Interconnect](images/telecom.png) 
+
+La retención de clientes es un factor clave para la sostenibilidad y crecimiento de las empresas en sectores altamente competitivos como el de las telecomunicaciones. En este contexto, Interconnect, un operador ficticio, busca anticiparse a la cancelación de contratos mediante el uso de ciencia de datos. El objetivo de este proyecto es desarrollar un modelo predictivo que identifique a los clientes con mayor probabilidad de cancelar sus servicios, analizando sus características demográficas, contractuales y de uso.
+
+El proceso incluye preprocesamiento de datos, análisis exploratorio, y la construcción y evaluación de modelos de clasificación utilizando técnicas de machine learning. Tras balancear las clases con SMOTE para abordar el desbalance inicial, se evaluaron tres modelos: RandomForestClassifier, LogisticRegression y DecisionTreeClassifier. El RandomForestClassifier mostró el mejor desempeño inicial con un AUC-ROC de 0.8464, pero fue optimizado utilizando Grid Search, alcanzando un AUC-ROC de 0.8548 en los datos de validación.
+
+Con el objetivo de mejorar aún más el rendimiento, se implementó XGBoost, alcanzando un AUC-ROC de 0.8849, lo que lo convirtió en el modelo más eficiente para este problema. Este enfoque no solo permitió predecir la tasa de cancelación de clientes, sino también extraer insights clave que pueden ayudar a definir estrategias comerciales para mejorar la fidelización.
+
+[Proyecto completo](https://github.com/yesi-or/Telecom.git)
+
+## INSTACART
 
 ![Vista previa del análisis de Instacart](images/instacart.jpg) 
 
@@ -21,7 +33,7 @@ Este enfoque no solo proporciona una visión global del funcionamiento de la pla
 
 [Proyecto completo](https://github.com/yesi-or/Instacart.git)
 
-### Pozos Petroleros
+## Pozos Petroleros
 
 ![Predicción de rentabilidad de pozos petroleros](images/pozos.jpeg) 
 
@@ -38,7 +50,7 @@ Este trabajo combina programación, análisis de datos y modelado predictivo par
 [Proyecto completo](https://github.com/yesi-or/M-todo-Bootstrapping)
 
 
-### Film-Junky-Union
+## Film-Junky-Union
 
 ![Análisis NLP de reseñas de cine](images/movie.jpeg)
 
